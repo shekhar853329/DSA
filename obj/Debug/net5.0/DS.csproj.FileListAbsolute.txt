@@ -1,0 +1,16 @@
+C:\Users\lab-shekhar_kumar\source\repos\Boost_New\DS\bin\Debug\net5.0\DS.exe
+C:\Users\lab-shekhar_kumar\source\repos\Boost_New\DS\bin\Debug\net5.0\DS.deps.json
+C:\Users\lab-shekhar_kumar\source\repos\Boost_New\DS\bin\Debug\net5.0\DS.runtimeconfig.json
+C:\Users\lab-shekhar_kumar\source\repos\Boost_New\DS\bin\Debug\net5.0\DS.runtimeconfig.dev.json
+C:\Users\lab-shekhar_kumar\source\repos\Boost_New\DS\bin\Debug\net5.0\DS.dll
+C:\Users\lab-shekhar_kumar\source\repos\Boost_New\DS\bin\Debug\net5.0\ref\DS.dll
+C:\Users\lab-shekhar_kumar\source\repos\Boost_New\DS\bin\Debug\net5.0\DS.pdb
+C:\Users\lab-shekhar_kumar\source\repos\Boost_New\DS\obj\Debug\net5.0\DS.csprojAssemblyReference.cache
+C:\Users\lab-shekhar_kumar\source\repos\Boost_New\DS\obj\Debug\net5.0\DS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab-shekhar_kumar\source\repos\Boost_New\DS\obj\Debug\net5.0\DS.AssemblyInfoInputs.cache
+C:\Users\lab-shekhar_kumar\source\repos\Boost_New\DS\obj\Debug\net5.0\DS.AssemblyInfo.cs
+C:\Users\lab-shekhar_kumar\source\repos\Boost_New\DS\obj\Debug\net5.0\DS.csproj.CoreCompileInputs.cache
+C:\Users\lab-shekhar_kumar\source\repos\Boost_New\DS\obj\Debug\net5.0\DS.dll
+C:\Users\lab-shekhar_kumar\source\repos\Boost_New\DS\obj\Debug\net5.0\ref\DS.dll
+C:\Users\lab-shekhar_kumar\source\repos\Boost_New\DS\obj\Debug\net5.0\DS.pdb
+C:\Users\lab-shekhar_kumar\source\repos\Boost_New\DS\obj\Debug\net5.0\DS.genruntimeconfig.cache
